@@ -1,0 +1,14 @@
+sympy
+numpy
+matplotlib
+scipy
+opencv-python
+pillow
+nltk
+spacy
+chempy
+ase
+pyscf
+chemtools
+ipywidgets
+voila
